@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jim Welch",
-    "label": "Engineering and Pre-Sales Leader - Mobility",
+    "label": "Engineering and Pre-Sales Solutions Leader",
     "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFJdRo5PzWRMA/profile-displayphoto-shrink_400_400/0/1557428179563?e=1616630400&v=beta&t=cK_FKk6ChWYaSqXlmGEMbB38dEm5v9wlx_x4Dy2Pj0k",
     "email": "j.gauntlett.welch@gmail.com",
     "phone": "+1-614-596-9141",
     "website": "http://www.linkedin.com/in/jimwelch/",
-    "summary": "At DENSO, Bestmile, Ridecell, TomTom, and deCarta/Uber, I've recruited, mentored and led solutions engineering teams to deliver cloud native solutions that drive sales results. Primary focus areas include new mobility services (MaaS), autonomous mobility on demand, location based services (LBS) and fleet management/logistics. <span><li>2019 - present: DENSO - New Mobility Lead Solutions Architect<li>2018 - 2019: Bestmile - Senior Director Solutions Engineering<li>2016 - 2018: Ridecell - Senior Director Solutions Engineering<li>2015 - 2016:  TomTom | Business Development Manager<li>2007 - 2015:  deCarta (acquired by Uber) | Senior Director Professional Services/Sales Engineering<li>1993 - 2007:  MobileSoft  | CTO founder  (acquired by Zenitel)</span>",
+    "summary": "At DENSO, Bestmile, Ridecell, TomTom, and deCarta/Uber, I've recruited, mentored and led solutions engineering teams to deliver cloud native solutions that drive sales results. Primary focus areas include new mobility services (MaaS), autonomous mobility on demand, location based services (LBS) and fleet management/logistics. <span><li>2019 - present: DENSO - New Mobility Lead Solutions Architect<li>2018 - 2019: Bestmile - Senior Director Solutions Engineering<li>2016 - 2018: Ridecell - Senior Director Solutions Engineering<li>2015 - 2016:  TomTom | Business Development Manager<li>2007 - 2015:  deCarta (acquired by Uber) | Senior Director Sales Engineering<li>1993 - 2007:  MobileSoft  | CTO founder  (acquired by Zenitel)</span>",
     "location": {
       "countryCode": "US",
       "address": "Dublin, Ohio"
@@ -41,10 +41,10 @@
       "endDate": "2019-04-30",
       "where": "San Francisco, CA",
       "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQG2w-OvRUtlog/company-logo_200_200/0/1589898559505?e=1619654400&v=beta&t=mp9BG8aY9O5TvqaMUSobxzjYJPpvUqVFaLx1xUgzxqs",
-      "highlights": [],
+      "highlights": ["Successful launch of a high-growth, differentiated ride hailing mobility service"],
       "position": "Global Director Solutions Engineering",
       "startDate": "2018-02-28",
-      "summary": "Lead all pre-sales and launch activities focused on autonomous shuttle programs for public transit agencies/operators and private shared mobility services.",
+      "summary": "Global director of all pre-sales and launch activities focused on autonomous shuttle programs for public transit agencies/operators and private shared mobility services.",
       "website": "https://www.linkedin.com/company/bestmile/"
     },
     {
@@ -52,10 +52,10 @@
       "endDate": "2018-02-24",
       "where": "San Francisco",
       "image": "https://media-exp1.licdn.com/dms/image/C560BAQEiGXnYxrzkVA/company-logo_200_200/0/1597161903677?e=1619654400&v=beta&t=9B_XpD8EmuA8IryLphs-OzVjMlD0wBPp0LLkIQri9xU",
-      "highlights": [],
+      "highlights": [" Defined, developed, and delivered the initial version of mobility management platform. <b>Result:</b> close of the contract with the highest profile company in the autonomous space today"],
       "position": "Senior Director Solutions Engineering",
       "startDate": "2015-11-15",
-      "summary": "Grew and led a distributed pre-sales engineering team responsible for all technical aspects of pipeline sales opportunities. Acted as player-coach working with the complete end-to-end mobility solution provided by Ridecell - full stack (Python-django) and mobile environments (Swift-iOS/Android).\n\n- Defined, developed, and delivered the initial version of Ridecell's autonomous mobility management platform. Result: close of the contract with the highest profile company in the autonomous space today",
+      "summary": "Grew and led a distributed pre-sales engineering team responsible for all technical aspects of pipeline sales opportunities. Acted as player-coach working with the complete end-to-end mobility solution provided by Ridecell - full stack and mobile environments ",
       "website": "https://www.linkedin.com/company/ridecell/"
     },
     {
@@ -63,7 +63,7 @@
       "where": "San Jose, CA",
       "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQHVN9JI46r7sg/company-logo_200_200/0/1581417586750?e=1619654400&v=beta&t=BBAzH1-dvyMliSBcQN_euz8el79abnceGcz9bDYvC2I",
       "endDate": "2015-11-25",
-      "highlights": [],
+      "highlights": ["Secured nearly $4M in forecasted 2016 revenue for TomTom’s location services product unit."],
       "position": "Business Development Manager - Customer Success",
       "startDate": "2015-06-15",
       "summary": "Assigned to Uber Technologies account for identifying, qualifying, and leading customer account activities. Coordinated business and transition activities in conjunction with management  and project teams.",
@@ -124,7 +124,7 @@
       "startDate": "1982-07-01",
       "endDate": "1986-05-21",
       "gpa": "3.54",
-      "courses": []
+      "courses": ["#1 graduate in major", "Top 5% of all graduates"]
     },
     {
       "institution": "The Ohio State University Fisher College of Business",
@@ -133,7 +133,7 @@
       "startDate": "2000-09-01",
       "endDate": "2002-06-01",
       "gpa": "4.0",
-      "courses": []
+      "courses": ["Entrepreneurship emphasis"]
     }
   ],
   "awards": [],
