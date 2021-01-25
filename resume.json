@@ -137,10 +137,18 @@
     }
   ],
   "awards": [],
-  "publications": [],
+  "publications": [
+    {"name":"Texas Mobility Summit - 2019","releaseDate":"2019-02-01", "summary":"Plenary sessions and presentation on Bestmile <i>Service Design</i>","website":"https://www.youtube.com/watch?v=5hJUr3BAtsA"}, 
+    {"name": "Smart Columbus - Mobility Hackathon - 2018","releaseDate":"2018-02-01","summary":"Sponsor, speaking and mentoring", "website":"https://www.youtube.com/watch?v=1JkiUeGKo3E"}
+  ],
   "skills": [
     {
-      "name": "Mobile Applications",
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Native Architecture",
       "level": "",
       "keywords": []
     },
@@ -150,12 +158,7 @@
       "keywords": []
     },
     {
-      "name": "Amazon Web Services (AWS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cloud Computing",
+      "name": "Mobile Applications",
       "level": "",
       "keywords": []
     },
@@ -171,11 +174,6 @@
     },
     {
       "name": "Telematics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Product Development",
       "level": "",
       "keywords": []
     },
@@ -216,11 +214,6 @@
     },
     {
       "name": "SaaS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Android",
       "level": "",
       "keywords": []
     },
