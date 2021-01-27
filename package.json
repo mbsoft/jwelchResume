@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run2": "resume serve  -t kendall",
-    "run": "node_modules/resume-cli/build/main.js export resume.pdf -t kendall-gren;resume export index.html -f html -t kendall-gren;"
+    "run2": "node_modules/resume-cli/build/main.js export index.html -f html -t kendall-gren",
+    "run": "node_modules/resume-cli/build/main.js export resume.pdf -t kendall-gren"
   },
   "repository": {
     "type": "git",
