@@ -19,8 +19,7 @@
   },
   "homepage": "https://github.com/mbsoft/jwelchResume#readme",
   "dependencies": {
-    "jsonresume-theme-kendall": "^0.2.0",
-    "jsonresume-theme-kendall-gren": "git://git@github.com:mbsoft/kcv-theme-kendall-gren.git",
+    "jsonresume-theme-kendall-gren": "git+ssh://git@github.com:mbsoft/kcv-theme-kendall-gren.git",
     "resume-cli": "^3.0.4"
   }
 }
