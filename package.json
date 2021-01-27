@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "run2": "resume serve  -t kendall",
-    "run": "node_modules/resume-cli/build/main.js export resume.pdf -t kendall-gren;resume export index.html -f html -t kendall-gren;cp resume.html docs;cp resume.html ./index.html"
+    "run": "node_modules/resume-cli/build/main.js export resume.pdf -t kendall-gren;resume export index.html -f html -t kendall-gren;"
   },
   "repository": {
     "type": "git",
