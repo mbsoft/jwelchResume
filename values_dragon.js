@@ -1,5 +1,5 @@
 [
-  {
+  { 
     "timestamp": 1615723578.391,
     "assetId": "JTHY65BH602071675",
     "latitude": 59.33338,
