@@ -1,4 +1,4 @@
-var valuesout_dragon = [
+[
   {
     "timestamp": 1615723578.391,
     "assetId": "JTHY65BH602071675",
