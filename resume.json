@@ -7,7 +7,7 @@
     "phone": "+1-614-596-9141",
     "website": "http://www.linkedin.com/in/jimwelch/",
     "summary": "At DENSO, Bestmile, Ridecell, TomTom, and deCarta/Uber, I've recruited, mentored and led solutions engineering teams to deliver cloud native solutions that drive sales results. Primary focus areas include new mobility services (MaaS), autonomous mobility on demand, location based services (LBS) and fleet management/logistics. <span><li>2019 - present: DENSO - Head of Mobility Platform Services Architecture<li>2018 - 2019: Bestmile - Senior Director Solutions Engineering<li>2016 - 2018: Ridecell - Senior Director Solutions Engineering<li>2015 - 2016:  TomTom | Business Development Manager<li>2007 - 2015:  deCarta (acquired by Uber) | Senior Director Sales Engineering<li>1993 - 2007:  MobileSoft  | CTO founder  (acquired by Zenitel)</span>",
-    "location": {
+    "location": { 
       "countryCode": "US",
       "address": "Dublin, Ohio" 
     },
