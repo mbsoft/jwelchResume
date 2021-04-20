@@ -28,7 +28,7 @@
     {
       "company": "DENSO",
       "where": "Southfield, MI",
-      "image": "./profile.jpg",
+      "image": "./profile.jpg", 
       "highlights": ["Responsibility for launch of new mobility service initiatives in coordination with OEM partners and platform providers.",  "Member of leadership team tasked with defining all operational support models, customer engagement processes, and associated monitoring metrics for SaaS mobility services platform."],
       "position": "Head of Mobility Platform Services Architecture",
       "startDate": "2019-04-01",
